@@ -37,8 +37,8 @@
 
 ## 🌐 Let's Connect
 
-- 📫 **Email**: [youremail@example.com](mailto:youremail@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📫 **Email**: [hemaaddagarla6@gmail.com](mailto:youremail@example.com)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/hema-addagarla](https://linkedin.com/in/yourusername)
 
 ---
 
