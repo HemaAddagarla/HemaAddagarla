@@ -15,11 +15,12 @@
 - 🚀 Passionate about building scalable, automated, and secure cloud infrastructure
 
 ---
-## 🚀 Tech Stack & Tools
+
+ ## 🚀 Tech Stack & Tools
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/aws.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -43,7 +44,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
   </a>
 </p>
-
 
 
 ---
